@@ -4,6 +4,15 @@ A CLI tool to manage licenses in your projects.
 
 ## Installation
 
+
+### Using `pipx`
+
+```bash
+pipx install git+https://github.com/teaishealthy/licenseman
+```
+
+### Manual installation
+
 Download and install `terminaltables`:
 
 ```bash
